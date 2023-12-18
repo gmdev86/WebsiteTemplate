@@ -1,0 +1,49 @@
+#home-body {
+    /*background-image: url('../img/indiana-hills.png'); /* Replace with the actual file path or URL */
+    background-size: cover; /* Ensure the background image covers the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+}
+
+.custom-navbar {
+    padding-left: 10px !important;
+}
+
+.navbar-nav .nav-item.active a {
+    color: #fff;
+    border-bottom: solid 2px #007bff;
+}
+
+.navbar-nav .nav-item a:hover {
+    border: solid 2px #007bff;
+}
+
+.custom-svg-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#custom-main-content {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.custom-tooltip {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 12px;
+    position: absolute;
+}
+
+#contactFormSubmitBtn {
+    margin-top: 1em;
+}
+
+.custom-container {
+    margin-top: 80px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
