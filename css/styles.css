@@ -3,7 +3,6 @@ body {
 }
 
 #home-body {
-    /*background-image: url('../img/indiana-hills.png'); /* Replace with the actual file path or URL */
     background-size: cover; /* Ensure the background image covers the entire viewport */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
