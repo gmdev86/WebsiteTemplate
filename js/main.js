@@ -48,9 +48,6 @@ var indianaApp = (function(){
             path.addEventListener('click', handlePathClick);
         });
 
-        $('#countyModalCloseBtn').click(function () {
-            $('#countyModal').modal('hide');
-        });
 
         $('#tablePager').on('click', 'a', function (e) {
             $('#tablePager li').removeClass('active');
@@ -73,7 +70,6 @@ var indianaApp = (function(){
         $('#latitude').val(county.lat);
         $('#longitude').val(county.lng);
         $('#population').val(county.population);
-        $('#countyModal').modal('show');
     }
 
     function handleMouseOver(event) {
