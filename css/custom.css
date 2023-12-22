@@ -154,3 +154,7 @@ footer {
 .nav-item:hover {
     border: 2px solid;
 }
+
+.sidebar {
+    float:right;
+}
