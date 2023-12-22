@@ -158,3 +158,7 @@ footer {
 .sidebar {
     float:right;
 }
+
+.page-item.active a {
+    background-color: lightblue;
+}
