@@ -94,7 +94,6 @@ footer {
     align-items: center;
 }
 
-/* Table Styles */
 #countyTable {
     width: 100%;
     border-collapse: collapse;
@@ -112,13 +111,12 @@ footer {
     background-color: #f2f2f2;
 }
 
-/* Pagination Styles */
 .pagination {
     list-style: none;
     display: flex;
     justify-content: flex-end;
     padding: 0;
-    margin-top: 20px; /* Adjust spacing as needed */
+    margin-top: 20px;
 }
 
 .pagination li {
@@ -161,4 +159,38 @@ footer {
 
 .page-item.active a {
     background-color: lightblue;
+}
+
+.float-container {
+    overflow: hidden; 
+}
+
+.left-div {
+    float: left;
+    width: 105%; 
+}
+
+.right-div {
+    float: left;
+}
+
+.container {
+    position: relative;
+    width: 99%;
+    height: 200px;
+    border: 1px solid #ccc;
+    overflow-y: scroll;
+}
+
+.section {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 73%; 
+    background-color: #f0f0f0;
+}
+
+.facts {
+    position: absolute;
+    right: 0;
 }

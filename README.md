@@ -47,7 +47,14 @@ http://ndav589.byethost7.com
 
 ## Credits
 
-[Acknowledge third-party libraries, tools, or resources]
+Bloomington.jpg
+Indiana University. (n.d.). Photo of the Sample Gates in the fall with students walking. Transfer Credit Services. https://transfercredit.indiana.edu/index.html
+
+Spencer.jpg
+Wikipedia contributors. (2022, December 26). Owen County Courthouse in Spencer [Photograph]. In Wikipedia. Retrieved December 26, 2022, from https://en.wikipedia.org/wiki/Spencer,_Indiana
+
+Indy_1.jpg
+Wikipedia contributors. (2022, December 26). Downtown Indianapolis [Photograph]. In Wikipedia. Retrieved December 26, 2022, from https://en.wikipedia.org/wiki/Indianapolis
 
 ## Author
 
